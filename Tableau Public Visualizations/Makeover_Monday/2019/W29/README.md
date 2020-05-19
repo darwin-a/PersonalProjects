@@ -1,5 +1,10 @@
 # Share of Americans Not Having Sex
 
+
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png" width = "500">| <img src = "https://postimg.cc/rzZ4GpYQ" width = "500"> |
+
 [Source](https://data.world/makeovermonday/2019w29)
 
 [Article](https://www.washingtonpost.com/business/2019/03/29/share-americans-not-having-sex-has-reached-record-high/)

@@ -26,7 +26,7 @@ I participated in these challenges to better understand how to communicate data 
 
 ### [Use of Harmful Pesticides in US Agriculture](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2020/W02)
 
-# [Las Vegas Convention Attendance & Visitor Traffic]https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W45
+# [Las Vegas Convention Attendance & Visitor Traffic](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W45)
 
 | **Original** | **Mine**|
 | --------- | --------|
@@ -39,6 +39,11 @@ I participated in these challenges to better understand how to communicate data 
 
 ### [Share of Americans Not Having Sex](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W29)
 
+
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png" width = "500">| <img src = "https://i.postimg.cc/kXqym6N3/sex-decline.png" width = "500"> |
+
 # [Sugar Worse Than Smoking](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2020/W03)
 
 
@@ -47,11 +52,6 @@ I participated in these challenges to better understand how to communicate data 
 | **Original** | **Mine**|
 | --------- | --------|
 |<img src = "https://ichef.bbci.co.uk/news/624/cpsprodpb/D3A6/production/_107228145_teen_sugar_640-nc.png" width = "500">| <img src = "https://i.postimg.cc/1RY02mRs/sugar.png" width = "500">
-
-
-| **Original** | **Mine**|
-| --------- | --------|
-|<img src = "https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png" width = "500">| <img src = "https://i.postimg.cc/kXqym6N3/sex-decline.png" width = "500"> |
 
 
 ### Contact Me

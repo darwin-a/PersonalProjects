@@ -1,5 +1,9 @@
 # Can you build a beautiful and dynamic bar chart?
 
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "http://www.workout-wednesday.com/wp-content/uploads/2020/01/2020wow2.gif.pagespeed.ce.5qxkeWUYbE.gif" width = "500">| <img src = "https://media0.giphy.com/media/lPL0UXQlYrtyKgeUq4/giphy.gif" width = "500"> |
+
 Source : Superstore data provided in Tableau 2019.4 
 
 [Article](http://www.workout-wednesday.com/2020w02/)
@@ -13,3 +17,6 @@ Source : Superstore data provided in Tableau 2019.4
 - Dynamically changing date ranges
 - Precision formatting for maximum understanding
 	
+
+
+

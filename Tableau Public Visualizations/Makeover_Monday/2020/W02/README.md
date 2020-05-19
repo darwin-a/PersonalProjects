@@ -1,4 +1,4 @@
-# Use of harmful pesticides in US agriculture
+# Use of Harmful Pesticides in US Agriculture
 
 
 | **Original** | **Mine**|

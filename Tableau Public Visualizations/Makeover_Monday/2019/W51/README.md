@@ -1,4 +1,4 @@
-# [NBA Defensive Ratings](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W51)
+# NBA Defensive Ratings
 
 
 | **Original** | **Mine**|

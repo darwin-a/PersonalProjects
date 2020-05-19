@@ -2,7 +2,9 @@
 
 Source : Superstore data provided in Tableau 2019.2 
 
-[Article](http://www.workout-wednesday.com/week-40-can-you-show-and-hide-your-sheets/)
+[Article](http://www.workout-wednesday.com/week-40-can-you-show-and-hide-your-sheets/))
+
+![Original Visualization](http://www.workout-wednesday.com/wp-content/uploads/2019/10/wow40.gif.pagespeed.ce.MvO-iWYAt6.gif)
 
 [Visualization](https://public.tableau.com/views/WW2019W40/Dashboard1?:display_count=y&:origin=viz_share_link)
 

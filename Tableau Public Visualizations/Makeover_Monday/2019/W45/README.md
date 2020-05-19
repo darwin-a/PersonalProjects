@@ -1,7 +1,10 @@
 # Las Vegas Convention Attendance & Visitor Traffic 
 
-[Source](https://data.world/makeovermonday/2019w45) 
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://media.data.world/w7ejD8lbRm2MuQcNq3i6_VegasTrafficQ12019.png" width = "500" height = "400">| <img src = "https://media.giphy.com/media/KZSFlqPEBIaDOKLL9D/giphy.gif" width = "500"> 
 
+[Source](https://data.world/makeovermonday/2019w45) 
 
 [Article](https://www.calculatedriskblog.com/2019/05/las-vegas-convention-attendance-and.html)
 

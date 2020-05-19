@@ -18,9 +18,7 @@ This repository holds all the work that I've done over the years. Currently they
 
 Each category has their own variety of projects and should be accompanied by a readme. 
 
-### Contact Info
-
-Contact Me!
+### Contact Me
 
 | Contact Method |  |
 | --- | --- |

@@ -26,16 +26,16 @@ I participated in these challenges to better understand how to communicate data 
 
 ### [Use of Harmful Pesticides in US Agriculture](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2020/W02)
 
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12940-019-0488-0/MediaObjects/12940_2019_488_Fig1_HTML.png" width = "500">| <img src = "https://i.postimg.cc/bwFj22p4/pesticides.png" width = "500">
+
 ### [Las Vegas Convention Attendance & Visitor Traffic](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W45)
 
 | **Original** | **Mine**|
 | --------- | --------|
 |<img src = "https://media.data.world/w7ejD8lbRm2MuQcNq3i6_VegasTrafficQ12019.png" width = "500">| <img src = "https://media.giphy.com/media/j6S5zs5LRrMTVNl8fq/giphy.gif" width = "500"> 
 
-
-| **Original** | **Mine**|
-| --------- | --------|
-|<img src = "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12940-019-0488-0/MediaObjects/12940_2019_488_Fig1_HTML.png" width = "500">| <img src = "https://i.postimg.cc/bwFj22p4/pesticides.png" width = "500">
 
 ### [Share of Americans Not Having Sex](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W29)
 

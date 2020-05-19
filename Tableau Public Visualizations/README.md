@@ -17,6 +17,8 @@ I participated in these challenges to better understand how to communicate data 
 
 ## Examples
 
+Below is some of my work and comparisons against the original visualizations. 
+
 ### [NBA Defensive Ratings](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations/Makeover_Monday/2019/W51)
 
 

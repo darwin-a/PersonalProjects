@@ -54,7 +54,7 @@ I participated in these challenges to better understand how to communicate data 
 |<img src = "https://ichef.bbci.co.uk/news/624/cpsprodpb/D3A6/production/_107228145_teen_sugar_640-nc.png" width = "500">| <img src = "https://i.postimg.cc/1RY02mRs/sugar.png" width = "500">
 
 
-### Contact Me
+## Contact Me
 
 | Contact Method |  |
 | --- | --- |

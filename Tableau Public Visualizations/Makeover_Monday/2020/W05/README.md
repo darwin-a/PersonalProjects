@@ -1,5 +1,10 @@
 # Can James Bond Be Black
 
+
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2018-09-26/James%20Bond-01.png" width = "500">| <img src = "https://i.postimg.cc/brTvXNk8/Bond.png" width = "500">
+
 [SOURCE](https://data.world/makeovermonday/2020w5-brexit-bond)
 
 ## The Dataset

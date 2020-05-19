@@ -1,8 +1,6 @@
 # Physics Education Research
 
-## Background
-
-**What is Physics Education Research?**
+## **What is Physics Education Research?**
 
 > Physics education research is a form of discipline-based education research specifically related to the study of the teaching and learning of physics, often with the aim of improving the effectiveness of student learning. Approximately eighty-five institutions in the United States conduct research in science and physics education.
 

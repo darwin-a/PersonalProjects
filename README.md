@@ -12,11 +12,11 @@ This repository holds all the work that I've done over the years. Currently they
 
 1. Personal Programming Projects
     - Python
-      - Data Science
-      - Scripts
-      - Software Development
-2. CPP Education Research Posters
-3. Public Tableau Visualizations
+      - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
+      - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
+      - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
+2. [CPP Education Research Posters](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research%20Posters)
+3. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
 
 Each category has their own variety of projects and should be accompanied by a readme. 
 

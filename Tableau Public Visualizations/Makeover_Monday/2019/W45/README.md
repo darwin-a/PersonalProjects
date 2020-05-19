@@ -2,7 +2,7 @@
 
 | **Original** | **Mine**|
 | --------- | --------|
-|<img src = "https://media.data.world/w7ejD8lbRm2MuQcNq3i6_VegasTrafficQ12019.png" width = "500">| <img src = "https://media.giphy.com/media/KZSFlqPEBIaDOKLL9D/giphy.gif" width = "500"> 
+|<img src = "https://media.data.world/w7ejD8lbRm2MuQcNq3i6_VegasTrafficQ12019.png" width = "500">| <img src = "https://media.giphy.com/media/j6S5zs5LRrMTVNl8fq/giphy.gif" width = "500"> 
 
 [Source](https://data.world/makeovermonday/2019w45) 
 

@@ -1,0 +1,178 @@
+---------------------
+-- GENERAL QUERIES --
+---------------------
+
+
+-- Query counting the instances where a patient
+-- is alive when they are discharged from the unit
+-- but is expired/dead when they are discharged from the hospital
+
+  SELECT  unitdischargestatus, hospitaldischargestatus, COUNT(*)
+    FROM  patient
+   WHERE  unitdischargestatus = 'Alive'
+     AND  hospitaldischargestatus = 'Expired'
+GROUP BY  unitdischargestatus, hospitaldischargestatus;
+
+-- Query that is used to 
+-- JOIN patient, hospital, apachpatientresult
+-- To find factors that may contribute to a patient death
+
+SELECT  p.patientunitstayid,p.uniquepid,p.age,p.gender,p.ethnicity,p.unitvisitnumber,
+        h.hospitalid, h.region,
+		apr.apachescore, apr.apacheversion, apr.actualicumortality, apr.actualhospitalmortality
+  FROM  patient AS p 
+  JOIN  hospital AS h 
+    ON  p.hospitalid = h.hospitalid
+  JOIN  apachepatientresult AS apr
+    ON  p.patientunitstayid = apr.patientunitstayid;
+
+-- : Query used to join neuro icu data
+-- : from patients with apachepredvar data
+-- : Result: 80 columns, 12963 rows
+
+SELECT   *
+  FROM   (SELECT   *
+            FROM   patient 
+           WHERE   unittype='Neuro ICU') AS p
+		    JOIN
+		 (SELECT *
+		    FROM apachepredvar) as apv
+		      ON p.patientunitstayid = apv.patientunitstayid
+
+-----------------------
+-- NEURO ICU QUERIES --
+-----------------------
+
+-- : Query to grab all patient data of patients
+-- : that were located in the neuro icu
+-- : Result: 29 Columns, 14451 rows
+
+SELECT   *
+  FROM   patient
+ WHERE	 unittype='Neuro ICU';
+
+-- : Query to grab the first instance of a patient
+-- : and all the other features
+-- : Result: 29 columns, 11896 rows
+
+SELECT DISTINCT ON  (uniquepid) *
+	      FROM  (SELECT    *
+		       FROM  patient
+		      WHERE  unittype='Neuro ICU'
+	  	   ORDER BY patientunitstayid ASC;
+
+-- : Query to group all unique patients in the patient table
+-- : by genders and count
+-- : Result: 2 columns, 1 row
+
+  SELECT 		 s.gender, COUNT(*)
+    FROM 		(SELECT DISTINCT ON 	   (uniquepid) uniquepid, gender
+		      		       FROM	   patient
+		    		      WHERE 	   unittype='Neuro ICU'
+		  	           ORDER BY	   uniquepid) AS s
+GROUP BY 		 s.gender;
+
+-- : Query to group all patients in the patient table
+-- : by genders and count
+-- : Result: 2 columns, 1 row
+
+   SELECT  p.gender, count(*)
+     FROM  patient as p
+    WHERE  p.unittype = 'Neuro ICU'
+ GROUP BY p.gender
+
+-- : Query to grab the lowest age average of 
+-- : all the patients in the NeuroICU ward
+-- : Result : 60.91 years 
+
+ SELECT  ROUND((SUM((CAST(age AS INTEGER)))+89*400)/14451.,2)
+   FROM  patient
+  WHERE  unittype='Neuro ICU'
+    AND  age != '> 89';
+
+-- : Query to group all patients in the patient table
+-- : by ethnicity and count
+-- : Result: 2 columns, 1 row
+
+   SELECT  ethnicity, COUNT(*)
+     FROM  patient as p
+    WHERE  p.unittype = 'Neuro ICU'
+ GROUP BY  p.ethnicity
+ ORDER BY  COUNT(*) DESC;
+
+-- : Query sort admission diagnosis by count of 
+-- : all the patients in the NeuroICU ward
+
+   SELECT   apacheadmissiondx, COUNT(*)
+     FROM   patient
+    WHERE   unittype='Neuro ICU'
+ GROUP BY   apacheadmissiondx
+ ORDER BY   COUNT(*) DESC;
+
+-----------------------------------
+-- Machine Learning Data Queries --
+-----------------------------------
+
+-- : BASELINE DATA FOR ALL ADMISSION STAYS
+
+SELECT  apr.apacheversion, apr.apachescore, apr.predictedicumortality, apr.actualicumortality, 
+		apr.predictedhospitalmortality, apr.actualhospitalmortality, apr.predictedhospitallos,
+		apr.unabridgedhosplos, apr.predictediculos, apr.unabridgedunitlos
+  FROM  patient AS p 
+  JOIN  hospital AS h 
+    ON  p.hospitalid = h.hospitalid
+  JOIN  apachepatientresult AS apr
+    ON  p.patientunitstayid = apr.patientunitstayid
+ WHERE  p.unittype='Neuro ICU'
+   AND  apr.apacheversion='IV' --: Or choose IVa
+
+
+-- : BASELINE DATA FOR FIRST ADMISSION STAY
+
+SELECT  apr.apacheversion, apr.apachescore, apr.predictedicumortality, apr.actualicumortality, 
+		apr.predictedhospitalmortality, apr.actualhospitalmortality, apr.predictedhospitallos,
+		apr.unabridgedhosplos, apr.predictediculos, apr.unabridgedunitlos
+  FROM  (SELECT DISTINCT ON  (uniquepid) *
+		       FROM  (SELECT    *
+				FROM  patient
+			       WHERE  unittype='Neuro ICU'
+			    ORDER BY patientunitstayid ASC) foo) AS p 
+  JOIN  hospital AS h 
+    ON  p.hospitalid = h.hospitalid
+  JOIN  apachepatientresult AS apr
+    ON  p.patientunitstayid = apr.patientunitstayid
+   AND  apr.apacheversion='IV' --: Or choose IVa;
+
+-- : Query to grab APACHESCORE data, HOSPITAL data and PATIENT data from
+-- : from three tables joined together from the eicu database. Will be used 
+-- : to create a machine learning algorithm to predict patient mortality
+-- : NOTE: TWO SCORING SYSTEMS FOR APACHE: IV & IVa
+-- : CHOOSE A SCORING SYSTEM TO DO ALGORITHMS ON
+-- : Results 12 columns, 23072 Rows
+
+SELECT  p.patientunitstayid,p.uniquepid,p.age,p.gender,p.ethnicity,p.unitvisitnumber,
+        h.hospitalid, h.region,
+		apr.apachescore, apr.apacheversion, apr.actualicumortality, apr.actualhospitalmortality
+  FROM  patient AS p  
+  JOIN  hospital AS h 
+    ON  p.hospitalid = h.hospitalid
+  JOIN  apachepatientresult AS apr
+    ON  p.patientunitstayid = apr.patientunitstayid
+ WHERE  p.unittype = 'Neuro ICU';
+
+-- : Query to grab APACHE data, HOSPITAL data and PATIENT data from
+-- : from three tables joined together from the eicu database. Will be used 
+-- : to create a machine learning algorithm to predict patient mortality
+-- : Results 12 columns, 12963 Rows
+SELECT   *
+  FROM   (SELECT   *
+            FROM   patient 
+           WHERE   unittype='Neuro ICU') AS p
+		    JOIN
+		 (SELECT   *
+		    FROM   apachepredvar) AS apv
+		      ON   p.patientunitstayid = apv.patientunitstayid
+			JOIN
+		 (SELECT   *
+		 	FROM   apacheApsVar) AS aap 
+			  ON   p.patientunitstayid = aap.patientunitstayid;

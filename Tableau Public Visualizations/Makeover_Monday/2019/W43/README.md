@@ -2,7 +2,7 @@
 
 | **Original** | **Mine**|
 | --------- | --------|
-|<img src = "https://i.postimg.cc/7YhnhvRm/deaths-by-age.png">" width = "500" height = "400">| <img src = "https://media.giphy.com/media/KZSFlqPEBIaDOKLL9D/giphy.gif" width = "500"> 
+|<img src = "https://i.postimg.cc/7YhnhvRm/deaths-by-age.png" width = "500" height = "400">| <img src = "https://media.giphy.com/media/KZSFlqPEBIaDOKLL9D/giphy.gif" width = "500"> 
 
 [Source](https://data.world/makeovermonday/2019w43) 
 

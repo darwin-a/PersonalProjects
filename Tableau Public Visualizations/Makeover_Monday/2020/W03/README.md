@@ -1,5 +1,12 @@
 # Sugar is as Bad as Smoking
 
+
+
+
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://ichef.bbci.co.uk/news/624/cpsprodpb/D3A6/production/_107228145_teen_sugar_640-nc.png" width = "500">| <img src = "https://i.postimg.cc/1RY02mRs/sugar.png" width = "500">
+
 [SOURCE](https://data.world/makeovermonday/2020w3-is-it-time-to-treat-sugar-like-smoking)
 
 [ARTICLE](https://www.bbc.co.uk/news/health-48499195)

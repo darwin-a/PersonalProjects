@@ -11,6 +11,7 @@ Source : Superstore data provided in Tableau 2019.2
 [Visualization](https://public.tableau.com/views/WW2019W40/Dashboard1?:display_count=y&:origin=viz_share_link)
 
 **Mine** 
+
 <img src = "https://media0.giphy.com/media/lPL0UXQlYrtyKgeUq4/giphy.gif" width = "500">
 
 ## What I learned

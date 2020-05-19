@@ -18,7 +18,7 @@ This repository holds all the work that I've done over the years. Currently they
 2. [CPP Education Research Posters](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research%20Posters)
 3. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
 
-Each category has their own variety of projects and should be accompanied by a readme. 
+Each category has their own variety of projects and should be accompanied by some form of documentation. 
 
 ### Contact Me
 

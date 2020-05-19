@@ -14,5 +14,5 @@ Source : Superstore data provided in Tableau 2019.2
 - Learn how to sheet swap using parameters and calculated fields
 - Learn how to make preview sheets so all graphs are always being viewed in the main container or smaller containers
 	
-< img src = "http://www.workout-wednesday.com/wp-content/uploads/2019/10/wow40.gif.pagespeed.ce.MvO-iWYAt6.gif" width = "250">
+<img src = "http://www.workout-wednesday.com/wp-content/uploads/2019/10/wow40.gif.pagespeed.ce.MvO-iWYAt6.gif" width = "250">
 

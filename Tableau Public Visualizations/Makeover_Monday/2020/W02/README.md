@@ -1,5 +1,11 @@
 # Use of harmful pesticides in US agriculture
 
+
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12940-019-0488-0/MediaObjects/12940_2019_488_Fig1_HTML.png" width = "500">| <img src = "https://i.postimg.cc/bwFj22p4/pesticides.png" width = "500">
+
+
 [Source](https://data.world/makeovermonday/2020w2)
 
 [Article](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0488-0)

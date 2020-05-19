@@ -9,19 +9,9 @@ In my undergraduate studies I was a Physics Education Researcher where I spent m
 I did my research work under **Dr. Qing Ryan** & **Dr. Homeyra Sadaghiani** & **Dr. Benjamin P. Schermerhorn**. Contact information can be found [here](https://www.cpp.edu/sci/physics-astronomy/research/physics-astronomy-education-research.shtml).
 
 
-### Introduction
+## Research At A Glance
 
-This repository holds all the work that I've done over the years. Currently they're binned in three different categories
 
-1. Personal Programming Projects
-    - Python
-      - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
-      - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
-      - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
-2. [CPP Education Research Posters](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research%20Posters)
-3. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
-
-Each category has their own variety of projects and should be accompanied by some form of documentation. 
 
 ### Contact Me
 

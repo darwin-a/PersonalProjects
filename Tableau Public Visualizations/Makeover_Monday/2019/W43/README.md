@@ -1,5 +1,9 @@
 # The Age At Which Most People Are Dying By Suicide
 
+| **Original** | **Mine**|
+| --------- | --------|
+|<img src = "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13" width = "500">| <img src = "https://media.giphy.com/media/KZSFlqPEBIaDOKLL9D/giphy.gif" width = "500"> 
+
 [Source](https://data.world/makeovermonday/2019w43) 
 
 

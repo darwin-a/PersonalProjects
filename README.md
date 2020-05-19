@@ -9,10 +9,10 @@ Hello! My name is Darwin Agunos and welcome to my Project Portfolio! A little bi
 This repository holds all the work that I've done over the years. Currently they're binned in three different categories
 
 1. Personal Programming Projects
-  - Python
-    - Data Science
-    - Scripts
-    - Software Development
+    - Python
+      - Data Science
+      - Scripts
+      - Software Development
 2. CPP Education Research Posters
 3. Public Tableau Visualizations
 

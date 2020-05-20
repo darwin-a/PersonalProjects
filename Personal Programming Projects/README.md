@@ -10,4 +10,12 @@ I've grown a love for programming over the years and have tried out data analysi
     - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
     - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
     - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development) 
-    
+   
+
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Professional Email | ddagunosprofessional@gmail.com |
+| School Email | ddagunosschool@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/ddagunos/ |

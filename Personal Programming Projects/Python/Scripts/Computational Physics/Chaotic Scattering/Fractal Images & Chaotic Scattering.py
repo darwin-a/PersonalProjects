@@ -239,10 +239,10 @@ for i in impact:
     
     if IntersectCircle == 0:
         exitParticle = True
-        print "We Have Exited"
+        print("We Have Exited")
         timespentthistrajectory = IntersectTime
         
-    print "Running Simulation %s" % SimulationCounter
+    print("Running Simulation %s" % SimulationCounter)
     
     BounceCounter = 1
     
@@ -252,7 +252,7 @@ for i in impact:
         
         
         
-        print "Trajectory has bounced %s times" % BounceCounter # Sanity Check #
+        print("Projectile has bounced %s times" % BounceCounter) # Sanity Check #
         
         # Use Intersect Function #
         
@@ -273,7 +273,7 @@ for i in impact:
         if IntersectCircle == 0: # This is our exit condition
             ExitAngle[Counter] = LastTheta
             exitParticle = True
-            print "We Have Exited"
+            print("We Have Exited")
             
         
         

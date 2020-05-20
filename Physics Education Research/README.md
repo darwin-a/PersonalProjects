@@ -1,0 +1,26 @@
+# Physics Education Research
+
+## **What is Physics Education Research?**
+
+> Physics education research is a form of discipline-based education research specifically related to the study of the teaching and learning of physics, often with the aim of improving the effectiveness of student learning. Approximately eighty-five institutions in the United States conduct research in science and physics education.
+
+In my undergraduate studies I was a Physics Education Researcher where I spent my time analyzing the effectiveness of certain instructional pedagogies on student performance, sentiment analysis on students perceptions of the physics-math intersection in quantum mechanics and the analysis of how demographics affect student performance (e.g. gender/racial gaps in student performance).
+
+I did my research work under **Dr. Qing Ryan** & **Dr. Homeyra Sadaghiani** & **Dr. Benjamin P. Schermerhorn**. Contact information can be found [here](https://www.cpp.edu/sci/physics-astronomy/research/physics-astronomy-education-research.shtml).
+
+
+## Research At A Glance
+
+### [Students’ Perceptions of the Math-Physics Interactions Throughout Spins-First Quantum Mechanics](https://www.compadre.org/per/items/detail.cfm?ID=15323)
+
+### Statistical Analysis of Students’ Performance On Research-based Inventory
+
+
+
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Professional Email | ddagunosprofessional@gmail.com |
+| School Email | ddagunosschool@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/ddagunos/ |

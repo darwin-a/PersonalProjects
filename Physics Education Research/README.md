@@ -11,11 +11,14 @@ I did my research work under **Dr. Qing Ryan** & **Dr. Homeyra Sadaghiani** & **
 
 ## Research At A Glance
 
-### [Students’ Perceptions of the Math-Physics Interactions Throughout Spins-First Quantum Mechanics](https://www.compadre.org/per/items/detail.cfm?ID=15323)
 
 ### Statistical Analysis of Students’ Performance On Research-based Inventory
 
+<img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/db542922c9a76b0ae9ce492da79bbe30cc655c2b/Physics%20Education%20Research/Statistical%20Analysis%20of%20Students%E2%80%99%20Performance%20On%20Research-based%20Inventory.svg">
 
+### [Students’ Perceptions of the Math-Physics Interactions Throughout Spins-First Quantum Mechanics](https://www.compadre.org/per/items/detail.cfm?ID=15323)
+
+<img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/db542922c9a76b0ae9ce492da79bbe30cc655c2b/Physics%20Education%20Research/Students%E2%80%99%20Perceptions%20of%20the%20Math-Physics%20Interactions%20Throughout%20Spins-First%20Quantum%20Mechanics.svg">
 
 ### Contact Me
 

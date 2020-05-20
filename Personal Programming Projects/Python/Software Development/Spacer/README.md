@@ -8,7 +8,7 @@
 - 
 
 ## Features To Add
-- Study Sessions: Add a time management method (most likely Pomodoro) that will be utilized during study sessions. 
+- Study Sessions: Add a time management method (most likely [Pomodoro](https://www.forbes.com/sites/bryancollinseurope/2020/03/03/the-pomodoro-technique/#18f7d5fc3985)) that will be utilized during study sessions. 
 
 ### Contact Me
 

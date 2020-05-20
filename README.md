@@ -1,4 +1,4 @@
-# Darwin Agunos - Personal Projects Portfolio
+# Darwin Agunos - Projects Portfolio
 
 ## Background
 

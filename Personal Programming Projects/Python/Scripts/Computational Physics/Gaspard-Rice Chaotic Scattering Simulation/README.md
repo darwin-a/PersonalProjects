@@ -17,9 +17,9 @@ My implementation of Chaotic Scattering in the Gaspard-Rice System. In this work
 :-------------------------:|:-------------------------:
 |<img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/Bounce%20Count%20vs%20Input.png" width="775"/> <br> <sub>Depiction of how projectile bounce count changes varies with the height that we shot the projectile</sub>| <img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/TIME%20SPENT%20VS%20INPUT.png" width="775"/> <br> <sub>Depiction on how time projectile spent inside the system varies as we vary the height that we shot the projectile</sub>
 
-|     Bounce Count vs Impact   | Time Particle Spent in Simulation vs Impact |
-:-------------------------:|:-------------------------:
-|<img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/Bounce%20Count%20vs%20Input.png" width="775"/> <br> <sub>Depiction of how projectile bounce count changes varies with the height that we shot the projectile</sub>| <img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/TIME%20SPENT%20VS%20INPUT.png" width="775"/> <br> <sub>Depiction on how time projectile spent inside the system varies as we vary the height that we shot the projectile</sub>
+## First Page of [Paper](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/Fractal%20Images%20%26%20Chaotic%20Scattering%20Report.pdf)
+
+![](https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/page1.png)
 
 
 

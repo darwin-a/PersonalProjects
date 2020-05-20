@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gr_system_experimental1.png" width="400" />
-  <img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/Trajectory%20Plot%20(Max%20Bounce%20%3D%2032).png" width="400" /> 
+  <img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Scripts/Computational%20Physics/Gaspard-Rice%20Chaotic%20Scattering%20Simulation/images/Trajectory%20Plot%20(Max%20Bounce%20%3D%2032).png" width="800" /> 
 </p>
 
 

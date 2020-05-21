@@ -1,4 +1,4 @@
-# Introductory Machine Learning Benchmarks for Neuro ICU Patients on the eICU Critical Care Dataset [(Paper Linked)](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/Introductory%20Machine%20Learning%20Benchmarks%20for%20Neuro%20ICU%20Patients%20on%20the%20eICU%20Critical%20Care%20Dataset.pdf)
+## Introductory Machine Learning Benchmarks for Neuro ICU Patients on the eICU Critical Care Dataset [(Paper Linked)](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/Introductory%20Machine%20Learning%20Benchmarks%20for%20Neuro%20ICU%20Patients%20on%20the%20eICU%20Critical%20Care%20Dataset.pdf)
 
 ## Project At A Glance
 

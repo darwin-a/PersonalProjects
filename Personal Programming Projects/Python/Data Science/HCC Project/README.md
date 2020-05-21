@@ -1,6 +1,6 @@
 ## Cluster-Based Oversampling Method for Improving Survival Prediction of Hepatocellular Carcinoma Patients - Revisited - Darwin Agunos [(Paper Linked)](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Data%20Science/HCC%20Project/Cluster-Based%20Oversampling%20Method%20for%20Improving%20Survival%20Prediction%20of%20Hepatocellular%20Carcinoma%20Patients%20-%20Revisiited%20-%20Darwin%20Agunos.pdf)
 
-## Project At A Glance
+## Project Information
 
 ### Abstract
 

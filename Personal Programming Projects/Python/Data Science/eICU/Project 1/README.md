@@ -1,5 +1,11 @@
 ## Introductory Machine Learning Benchmarks for Neuro ICU Patients on the eICU Critical Care Dataset [(Paper Linked)](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/Introductory%20Machine%20Learning%20Benchmarks%20for%20Neuro%20ICU%20Patients%20on%20the%20eICU%20Critical%20Care%20Dataset.pdf)
 
+### Tl:dr
+- The APACHE (Acute Physiological And Chronic Health Evaluation) IV/IVa is a tool used to risk-adjust ICU patients for ICU performance benchmarking and quality improvement analysis but it was last improved in 2006. Can we create prediction models that beat these tasks?
+- Constructed LOS and mortality prediction models for patients in the Neuro ICU and compared them to the APACHE IV / APACHE IVa prediction models.
+- We conclude that constructing models based on the single feature APACHE Score performs notably worse for both prediction tasks.
+- Future work will include more features and more complex statistical models. 
+  
 ## Project At A Glance
 
 ### Abstract

@@ -22,7 +22,7 @@ The last time the APACHE scoring system was updated was in 2006 and is 14 years 
 
 ### Results
 
-In this section we compare the results of the recent `APACHE IV` / `APAVHE IVa` to our simple machine learning models. In this work we constructed LOS and mortality prediction models for patients in the Neuro ICU and compared them to the APACHE IV / APACHE IVa prediction models. We conclude that constructing models based on the single feature APACHE Score performs notably worse for both prediction tasks. 
+In this work we constructed LOS and mortality prediction models for patients in the Neuro ICU and compared them to the APACHE IV / APACHE IVa prediction models. We conclude that constructing models based on the single feature APACHE Score performs notably worse for both prediction tasks. 
 
 #### Length Of Stay (LOS) Predictions
 

@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+python=3.7.6
+numpy=1.16.5
+matplotlib=3.1.1
+scikit-learn=0.22.1
+scipy=1.3.1
+seaborn=0.9.0
+xgboost=1.0.3
+tensorflow=2.1.0
+tensorflow-base=2.1.0
+dtale=1.7.5
+imbalanced-learn=0.5.0
+distython=0.0.3
+

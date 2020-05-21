@@ -1,3 +1,6 @@
+This text file holds some of the queries that I used in this project.
+
+
 ---------------------
 -- GENERAL QUERIES --
 ---------------------

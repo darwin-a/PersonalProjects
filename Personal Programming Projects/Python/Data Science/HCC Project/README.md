@@ -1,5 +1,12 @@
 ## Cluster-Based Oversampling Method for Improving Survival Prediction of Hepatocellular Carcinoma Patients - Revisited - Darwin Agunos [(Paper Linked)](https://github.com/darwin-a/PersonalProjects/blob/master/Personal%20Programming%20Projects/Python/Data%20Science/HCC%20Project/Cluster-Based%20Oversampling%20Method%20for%20Improving%20Survival%20Prediction%20of%20Hepatocellular%20Carcinoma%20Patients%20-%20Revisiited%20-%20Darwin%20Agunos.pdf)
 
+### Tl:dr
+- Created mortality prediction models for Hepatocellular Carcinoma patients than performed better than predicted by utilzing different imputation and oversampling techniques referenced in academic papers
+- Neural Network Classifier paired with a 5-NN imputation technique utilizing the HEOM distance metric and K-Means SMOTE to create synthetic samples of our under-represented class yielded and Leave-One-Out Cross Validation improved over previously reported results in the following metrics
+  - ~9% accuracy increase
+  - ~15% AUROC score increase
+  - ~17% F1 score increase
+ 
 ## Project Information
 
 ### Abstract

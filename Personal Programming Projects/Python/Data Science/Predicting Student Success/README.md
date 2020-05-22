@@ -1,11 +1,10 @@
 # Machine Learning With Student Data
 
-### Needs to be Reevaluated
-- 05/21/2020
-
 ## Quick Intro
 
 Enclosed is a Jupyter Notebook for some research done at an institution. I've added noise so the real data but the idea still persists. This work uses Machine Learning Models to predict student success in a calculus-based kinematics course.
+
+If you want to see some Exploratory Data Analysis on this project I go in-depth [here](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project)
 
 ## Problem Statement
 

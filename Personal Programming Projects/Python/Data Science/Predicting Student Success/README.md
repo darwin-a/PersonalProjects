@@ -1,5 +1,8 @@
 # Machine Learning With Student Data
 
+### Needs to be Reevaluated
+- 05/21/2020
+
 ## Quick Intro
 
 Enclosed is a Jupyter Notebook for some research done at an institution. I've added noise so the real data but the idea still persists. This work uses Machine Learning Models to predict student success in a calculus-based kinematics course.
@@ -19,9 +22,6 @@ In this notebook I implemented Logistic Regression, Random Forest, Support Vecto
 ## Importance
 
 The use of machine learning and data mining techniques has exploded in recent years with the field of educational data mining making significant growth in the past two decades. No work has been done at this institution, a primarily undergraduate institution with a variety of ethnic backgrounds. This work will serve as the baseline for all future Machine Learning work at this institution. Predicting student success has many use cases and will ultimately benefit both the students and professors in creating instructional techniques/habits that will gear students towards better/more efficient course performance.
-
- 
-
 
 *Note*
 The PDF file is a reference to another work for Machine Learning done at a **different institution**. This can be used as a reference for context. 

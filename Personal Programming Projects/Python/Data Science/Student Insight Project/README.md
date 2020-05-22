@@ -4,6 +4,29 @@ Enclosed in this folder is all my analysis done on a real-world student dataset 
 
 If you want my work done in creating an early failure detection algorithm click [here](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science/Predicting%20Student%20Success)
 
+### Tl;dr
+
+- EDA Project exploring real student data in a college kinematics course. Data has been de-identified.
+- Goal: Explore characteristics that could potentially impact a student's physics grade and understanding of Newtonian Mechanics
+<details>
+  <summary><strong>Factors that could potentially impact `PHY Grade` </strong></summary>
+  
+- `Measures` that could influence `PHY Grade`
+  - Current College GPA: r = 0.49
+  - FCI Post: r = 0.42
+  - FCI Pre: r = 0.38
+  - ACT Composite: r = 0.33
+  - HS GPA: r = 0.33
+  - SAT Total: r = 0.31
+
+- `Dimensions` that could influence `PHY Grade`
+  - Gender: Males outperform Females
+  - Under-represented Minority (URM) Status & Ethnicity: Non-URM students outperform URM students. `White` population outperforms all Non-URM students. `Hispanic` population outperforms URM students. On average, no one scores above or at a 3.0 (B)
+  - First Generation Status: Non-First Generation Students do better than First Generation Students. Males still outperform females
+  - Instruction Type: `Interactive Teaching` shows that students perform better in both `PHY Grade` & `FCI Post`
+  - Professor: Professors who have the same `Instruction Type` have `PHY Grades` that vary largely (see below)
+</details>
+
 ## Introduction
 
 In this notebook, we will conduct exploratory data analysis using Pandas and Seaborn to find any relationships between student background and student performance in an introductory college kinematics course. We will also explore any possible reasonings to our insights and finish up with any key insights that we find. 
@@ -67,4 +90,91 @@ Given access to institional data on students taking an introductory calculus-bas
 
 </details>
 
-### Exploratory Data Analysis
+### Some Exploratory Data Analysis (Physics Grade Distributions, Pre/Post Force Concept Inventory (FCI) Scores)
+*<small>Note: FCI is a measure of a student's understanding of Newtonian Mechanics. Used to assess student's understanding of Newtonian Mechanics post-course</small>*
+
+
+####  Preliminary Analysis Pre-Course & Correlation Plot
+
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/score_distributions.png" width = 700><p>
+
+- The true mean for **SAT Composite Scores** is 1145.35 ±  148.19
+- The true mean for **ACT Composite Scores** lies between 25.56 ± 4.09
+- Students initially do very poorly on the **FCI Pre Test** with a mean score of 12.56 ± 6.36
+- Students do better on the **FCI Post Test** with a mean score of 15.99 ± 6.65. However, this average is scoring a **53% on the test** indicating most students do come out of the course understanding  Newtonian Mechanics
+
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/CORRELATION_PLOT.png" width = 1200><p>
+  
+- `Measures` that could influence `PHY Grade`
+  - Current College GPA: r = 0.49
+  - FCI Post: r = 0.42
+  - FCI Pre: r = 0.38
+  - ACT Composite: r = 0.33
+  - HS GPA: r = 0.33
+  - SAT Total: r = 0.31
+
+- `Dimensions` that could influence `PHY Grade`
+  - Gender: Males outperform Females
+  - Under-represented Minority (URM) Status & Ethnicity: Non-URM students outperform URM students. `White` population outperforms all Non-URM students. `Hispanic` population outperforms URM students. On average, no one scores above or at a 3.0 (B)
+  - First Generation Status: Non-First Generation Students do better than First Generation Students. Males still outperform females
+  - Instruction Type: `Interactive Teaching` shows that students perform better in both `PHY Grade` & `FCI Post`
+  - Professor: Professors who have the same `Instruction Type` have `PHY Grades` that vary largely (see below)
+
+
+#### By Gender
+
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/PHY_Grade_Sex.png" width = 600><p>
+
+<p float="left" align='center'>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/FCI_Pre_Sex.png" width = 450>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/FCI_Post_Sex.png" width = 450>
+<p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/gender_table.png" width=500><p>
+
+#### By Minority Status
+
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/URM_STATS_PHY.png" width = 1000><p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/URM_table.png" width=700><p>
+ 
+<p float="left" align='center'>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/URM_STATS_FCI_PRE.png" width = 450>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/URM_STATS_FCI_Post.png" width = 450>
+<p>
+  
+
+#### By First Generation Status and Gender
+
+
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/First_Generation_PHY.png" width = 1000><p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/first_gen_table.png" width=700><p>
+ 
+<p float="left" align='center'>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/FIRSTGEN_FCIPRE.png" width = 450>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/FIRSTGEN_FCIPOST.png" width = 450>
+<p>
+
+#### By Instruction Type
+  
+ <p float="left" align='center'>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/INSTRUCTION_TYPE_PHYGRADE.png" width = 450>
+  <img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/FCI_Student_Gain_IT.png" width = 450>
+<p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/IT_table.png" width=500><p>
+ 
+##### By Instruction Type and Professor
+ 
+<p align="center"><img src = "https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/INSTRUCTION_TYPE_PHYGRADE_BY_INSTRUCTOR.png" width = 1200><p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/darwin-a/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project/images/IT_by_instructor_table.png" width=500><p>
+  
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Professional Email | ddagunosprofessional@gmail.com |
+| School Email | ddagunosschool@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/ddagunos/ |

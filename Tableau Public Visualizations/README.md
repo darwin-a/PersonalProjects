@@ -1,6 +1,7 @@
 # Tableau Public Visualizations
 
-### Visit My Other Projects!
+<details><summary><strong>Visit My Other Projects!</strong></summary> 
+<br>
 
 1. Personal Programming Projects
     - Python
@@ -9,6 +10,7 @@
       - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
 2. [CPP Education Research](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
 
+</details>
 
 ## Background
 

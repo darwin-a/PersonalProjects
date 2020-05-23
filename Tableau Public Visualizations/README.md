@@ -1,5 +1,15 @@
 # Tableau Public Visualizations
 
+### Visit My Other Projects!
+
+1. Personal Programming Projects
+    - Python
+      - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
+      - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
+      - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
+2. [CPP Education Research](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
+
+
 ## Background
 
 In this section we go over some of the visualizations I've created by participating in **Makeover Monday** & **Workout Wednesday**. These

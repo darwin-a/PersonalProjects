@@ -1,9 +1,12 @@
 # Programming Projects
 
-## Visit My Other Projects!
+<details><summary><strong>Visit My Other Projects!</strong></summary> 
+<br>
 
 1. [CPP Education Research](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
 2. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
+
+</details>
 
 ### About Me
 I was introduced to programming towards the latter of my undergraduate program. I learned how to use Python to simulate physical phenomena and write reports on that phenomena. This branch of physics is known as Computational Physics and it is one way to bridge the gap between theoretical and computational physics. From here I began using my programming skills for Data Analaysis during my time as a student Physics Education Researcher ([Link To My Work](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)). 

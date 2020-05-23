@@ -1,5 +1,14 @@
 # Physics Education Research
 
+## Visit My Other Projects!
+
+1. Personal Programming Projects
+    - Python
+      - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
+      - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
+      - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
+2. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
+
 ## **What is Physics Education Research?**
 
 > Physics education research is a form of discipline-based education research specifically related to the study of the teaching and learning of physics, often with the aim of improving the effectiveness of student learning. Approximately eighty-five institutions in the United States conduct research in science and physics education.

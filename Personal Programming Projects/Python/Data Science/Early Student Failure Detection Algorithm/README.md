@@ -1,4 +1,4 @@
-# Machine Learning With Student Data
+# Early Student Failure Detection Algorithm
 
 ## Quick Intro
 

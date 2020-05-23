@@ -2,7 +2,7 @@
 
 Enclosed in this folder is all my analysis done on a real-world student dataset as well as visualizations. 
 
-If you want my work done in creating an early failure detection algorithm click [here](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science/Predicting%20Student%20Success)
+If you want my work done in creating an early failure detection algorithm click [here](https://github.com/darwin-a/PersonalProjects/edit/master/Personal%20Programming%20Projects/Python/Data%20Science/Early%20Student%20Failure%20Detection%20Algorithm/README.md)
 
 ### Tl;dr
 

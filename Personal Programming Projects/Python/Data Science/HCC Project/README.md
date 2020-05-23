@@ -57,8 +57,10 @@ For more information on methodology, results and background information the pape
 - graphs: AUROC, Confusion Matrices pictures for each classifier with each method
 - images: images used to readme/jupyter notebook
 
-### Citations
 
+<details><summary><strong>Citations</strong></summary> 
+<br>
+  
 [<sup>1</sup>HCC Survival Data Set](https://archive.ics.uci.edu/ml/datasets/HCC+Survival) <br>
 [<sup>2</sup>Miriam Seoane Santos, Pedro Henriques Abreu, Pedro J Garcia-Laencina, Adelia Simao, Armando Carvalho, A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients, Journal of biomedical informatics, 58, 49-59, 2015](https://www.sciencedirect.com/science/article/pii/S1532046415002063)<br>
 [<sup>3</sup>Machine Learning with Statistical Imputation for Predicting Drug Approvals](https://hdsr.mitpress.mit.edu/pub/ct67j043) <br>
@@ -77,6 +79,7 @@ For more information on methodology, results and background information the pape
 [<sup>16</sup>Sci-Kit Learn](https://scikit-learn.org/stable/whats_new/v0.22.html) <br>
 [<sup>17</sup>Distython](https://towardsdatascience.com/distython-5de10f342c93) <br>
 [<sup>18</sup>AutoImpute](https://kearnz.github.io/autoimpute-tutorials/)
+</details>
 
 ### Contact Me
 
@@ -87,8 +90,9 @@ For more information on methodology, results and background information the pape
 | LinkedIn | https://www.linkedin.com/in/ddagunos/ |
 
 
-### Dataset Information Table
-
+<details><summary><strong>Dataset Information Table</strong></summary> 
+<br>
+  
 |**Prognostic Factors**|Description|Type/Scale|Range|Mean or Mode|Missingness (%)|
 |:------------------:|:------------------------------------------------|:----------:|:------------:|:-----------:|:-------------:|
 |**Gender**|Gender (nominal)|Qualitative/dichotomous|0/1|1|0|
@@ -140,7 +144,7 @@ For more information on methodology, results and background information the pape
 |**Iron**|Iron (continuous)   |Quantitative/ratio|0-224|85.6|47.88
 |**Sat**| Oxygen Saturation (continuous)  |Quantitative/ratio|0-126|37.03|48.48
 |**Ferritin**| Ferritin (continuous)   |Quantitative/ratio|0-2230|439|48.48|Qualitative/dichotomous|0/1|0|6.06|
-
+</details>
 
 
 

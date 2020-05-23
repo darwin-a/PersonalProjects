@@ -6,6 +6,8 @@ Python was the first programming language I ever learned. At first I used it for
 Python as a data analysis tool when I became a Physics Education Researcher. Since then I've worked on numerous personal projects in different kinds of work.
 This repository holds some of the work that I have completed. 
 
+# Project Examples
+
 ## Data Science
 [<h3 align = "left">Project: Introductory Machine Learning Benchmarks for Neuro ICU Patients on the eICU Critical Care Dataset</h3>](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201)
 <h4 align=center> Mortality Predictions </h4>

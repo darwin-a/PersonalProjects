@@ -4,11 +4,7 @@
 
 This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
 
-1. Personal Programming Projects
-    - Python
-      - [Data Science](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science)
-      - [Scripts](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Scripts)
-      - [Software Development](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Software%20Development)
+1. [Personal Programming Projects](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects)
 2. [CPP Education Research](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
 3. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
 
